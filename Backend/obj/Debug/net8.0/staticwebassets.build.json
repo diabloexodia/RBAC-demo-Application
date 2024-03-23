@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FZ0zOk3kGw364oz+uDSOjJ2flSRYPh0GSaws2znu3xU=",
+  "Source": "jwtvalidator",
+  "BasePath": "_content/jwtvalidator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
